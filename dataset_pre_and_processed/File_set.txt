@@ -1,0 +1,4 @@
+Datasets.
+
+Master data files are cleaned, feature selected, feature engineered
+Engineered feature is gender column, predicted from first name. 
