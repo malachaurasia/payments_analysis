@@ -1,0 +1,3 @@
+The direciroty contains the notebooks for preprocessing the datasets.
+  1. Payments under general payments category.
+  2. Payments under research category.
