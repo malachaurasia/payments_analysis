@@ -1,0 +1,14 @@
+The directory contains analysis at the to level for all the companies across pharmaceuticals, device manufacturers. 
+Physicians, non-physician practitioners are involved in research and clinical trials.
+
+- The dataset comprises of general payments and research payments. The companies provide medical devices, medical supplies for conducting research. 
+
+Phramaceutical, biomedical device manufacturers conduct research, drug discovery, clinical trials and studies of long term impacts. 
+
+- Research payments: Research institutions like National institute of health, Memorial Sloan Kettering cancer center, Duke university. 
+
+- General payments: The trials are conducted in teaching hospitals like Dana-Farber cancer institute, Massachusetts General hospital, Brigham and women’s hospital. 
+
+The physicians conducting trials speak in public forums and medical institutions for educational purposes. 
+They are compensated in various ways like stock options, cash, in kind items and services. 
+The nature of payment varies by purpose. Few examples are travel, food and beverages, public speaking, device or medical supply.
