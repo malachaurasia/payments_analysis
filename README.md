@@ -21,7 +21,7 @@
 - Healthcare is a biggest employer in United states. The gender based disparity is minimum. At broad level the gender ratio was balanced. However the data insights revealed that there were more female employees in non-physian roles 70-75% and at physician and research roles on average 30%.
 - In research females were equally competent in skills and there was payment parity. However workforce comprised 30% only. 
 - In general payments, across physicians the payments were skewed. Males travelled more, were speakers at educational events, earned more on royalties and licenses, in travel and lodging, food and beverages. They were paid in cash while women were paid more in kind items and services.
-- Non-Physian roles were not considered. Though parities varied across organizations.
+- Non-Physian roles were broadly analyzed, without considering skills. There was in general parity. Though varied across organizations.
 
 **Challanges**
 - Entire analysis is based on the dataset.
