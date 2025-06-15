@@ -26,5 +26,5 @@
 **Challanges**
 - Entire analysis is based on the dataset.
 - The data was reported by organizations and we are not aware if it is incomplete.
-- The gender was predicted using names of individuals. The precision was 83%.
+
   
